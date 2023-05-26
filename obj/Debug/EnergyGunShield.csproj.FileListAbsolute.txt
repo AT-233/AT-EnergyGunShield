@@ -1,0 +1,6 @@
+E:\塔科夫自制皮肤\编程大法好\AT.EnergyGunShield\EnergyGunShield\bin\Debug\EnergyGunShield.dll
+E:\塔科夫自制皮肤\编程大法好\AT.EnergyGunShield\EnergyGunShield\bin\Debug\EnergyGunShield.pdb
+E:\塔科夫自制皮肤\编程大法好\AT.EnergyGunShield\EnergyGunShield\obj\Debug\EnergyGunShield.csproj.AssemblyReference.cache
+E:\塔科夫自制皮肤\编程大法好\AT.EnergyGunShield\EnergyGunShield\obj\Debug\EnergyGunShield.csproj.CoreCompileInputs.cache
+E:\塔科夫自制皮肤\编程大法好\AT.EnergyGunShield\EnergyGunShield\obj\Debug\EnergyGunShield.dll
+E:\塔科夫自制皮肤\编程大法好\AT.EnergyGunShield\EnergyGunShield\obj\Debug\EnergyGunShield.pdb
